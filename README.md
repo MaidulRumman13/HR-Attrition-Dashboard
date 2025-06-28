@@ -1,4 +1,4 @@
-                                                                                        HR Attrition Dashboard: Insights & Next Steps
+                  HR Attrition Dashboard: Insights & Next Steps
 
 This project presents a comprehensive HR Attrition Dashboard, offering in-depth insights into employee turnover trends. Developed to analyze key HR metrics, this dashboard helps organizations understand and address the root causes of attrition.
 
